@@ -1,0 +1,29 @@
+div {
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+body {
+    background-color: blue;
+}
+#BIGBOX {
+    margin-top: 15%;
+    margin-bottom: 15%;
+    margin-left: 45%;
+    margin-right: 35%;
+    background-color: white;
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+img {
+    width: 10%;
+    height: 10%;
+}
+button {
+    text-align: center;
+    color: white;
+    background-color: blue;
+}
